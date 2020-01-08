@@ -1,0 +1,17 @@
+F:\Mile\netCore\WebAPI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+F:\Mile\netCore\WebAPI\bin\Debug\netcoreapp3.0\appsettings.json
+F:\Mile\netCore\WebAPI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+F:\Mile\netCore\WebAPI\bin\Debug\netcoreapp3.0\WebAPI.exe
+F:\Mile\netCore\WebAPI\bin\Debug\netcoreapp3.0\WebAPI.deps.json
+F:\Mile\netCore\WebAPI\bin\Debug\netcoreapp3.0\WebAPI.runtimeconfig.json
+F:\Mile\netCore\WebAPI\bin\Debug\netcoreapp3.0\WebAPI.runtimeconfig.dev.json
+F:\Mile\netCore\WebAPI\bin\Debug\netcoreapp3.0\WebAPI.dll
+F:\Mile\netCore\WebAPI\bin\Debug\netcoreapp3.0\WebAPI.pdb
+F:\Mile\netCore\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.csprojAssemblyReference.cache
+F:\Mile\netCore\WebAPI\obj\Debug\netcoreapp3.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+F:\Mile\netCore\WebAPI\obj\Debug\netcoreapp3.0\staticwebassets\WebAPI.StaticWebAssets.xml
+F:\Mile\netCore\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.AssemblyInfoInputs.cache
+F:\Mile\netCore\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.AssemblyInfo.cs
+F:\Mile\netCore\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.RazorTargetAssemblyInfo.cache
+F:\Mile\netCore\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.dll
+F:\Mile\netCore\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.pdb
