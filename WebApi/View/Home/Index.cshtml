@@ -1,0 +1,15 @@
+﻿@page
+@model Microsoft.AspNetCore.Http.HttpContext
+@{
+    Layout = null;
+}
+<table>
+    <tr>
+        <td>
+            ReuqestBody流
+        </td>
+        <td>
+            @Model.Request.Body
+        </td>
+    </tr>
+</table>

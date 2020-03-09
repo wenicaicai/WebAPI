@@ -62,5 +62,15 @@ namespace WebApi.Controllers
         {
             return $"您的请求id：{id}";
         }
+
+        [HttpGet]
+        [Route("RegionTest")]
+        public ActionResult<string> RegionTest()
+        {
+            int[] a = { 1, 2, 3, 4 };
+            var result = Region.region(a, 0, 0);
+            var resut_string = result.ToString();
+            return $"递归测试结果：{resut_string}";
+        }
     }
 }

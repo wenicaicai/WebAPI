@@ -1,0 +1,11 @@
+F:\Mile\WebApi\Calculator\bin\Debug\netcoreapp3.0\Calculator.exe
+F:\Mile\WebApi\Calculator\bin\Debug\netcoreapp3.0\Calculator.deps.json
+F:\Mile\WebApi\Calculator\bin\Debug\netcoreapp3.0\Calculator.runtimeconfig.json
+F:\Mile\WebApi\Calculator\bin\Debug\netcoreapp3.0\Calculator.runtimeconfig.dev.json
+F:\Mile\WebApi\Calculator\bin\Debug\netcoreapp3.0\Calculator.dll
+F:\Mile\WebApi\Calculator\bin\Debug\netcoreapp3.0\Calculator.pdb
+F:\Mile\WebApi\Calculator\obj\Debug\netcoreapp3.0\Calculator.csprojAssemblyReference.cache
+F:\Mile\WebApi\Calculator\obj\Debug\netcoreapp3.0\Calculator.AssemblyInfoInputs.cache
+F:\Mile\WebApi\Calculator\obj\Debug\netcoreapp3.0\Calculator.AssemblyInfo.cs
+F:\Mile\WebApi\Calculator\obj\Debug\netcoreapp3.0\Calculator.dll
+F:\Mile\WebApi\Calculator\obj\Debug\netcoreapp3.0\Calculator.pdb

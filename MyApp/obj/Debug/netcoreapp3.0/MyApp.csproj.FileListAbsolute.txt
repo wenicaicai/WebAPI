@@ -1,0 +1,11 @@
+F:\Mile\WebApi\MyApp\bin\Debug\netcoreapp3.0\MyApp.exe
+F:\Mile\WebApi\MyApp\bin\Debug\netcoreapp3.0\MyApp.deps.json
+F:\Mile\WebApi\MyApp\bin\Debug\netcoreapp3.0\MyApp.runtimeconfig.json
+F:\Mile\WebApi\MyApp\bin\Debug\netcoreapp3.0\MyApp.runtimeconfig.dev.json
+F:\Mile\WebApi\MyApp\bin\Debug\netcoreapp3.0\MyApp.dll
+F:\Mile\WebApi\MyApp\bin\Debug\netcoreapp3.0\MyApp.pdb
+F:\Mile\WebApi\MyApp\obj\Debug\netcoreapp3.0\MyApp.csprojAssemblyReference.cache
+F:\Mile\WebApi\MyApp\obj\Debug\netcoreapp3.0\MyApp.AssemblyInfoInputs.cache
+F:\Mile\WebApi\MyApp\obj\Debug\netcoreapp3.0\MyApp.AssemblyInfo.cs
+F:\Mile\WebApi\MyApp\obj\Debug\netcoreapp3.0\MyApp.dll
+F:\Mile\WebApi\MyApp\obj\Debug\netcoreapp3.0\MyApp.pdb
