@@ -14,7 +14,7 @@ namespace AuthService.Configuration
             return new[]
             {
                 //{name:social-network,displayName:社交网络}
-                new ApiResource("socialnetwork","社交网络")
+                new ApiResource("socialnetwork","社交网络-多")
             };
         }
 
